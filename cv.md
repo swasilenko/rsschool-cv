@@ -1,4 +1,6 @@
 # Svetlana Vasilenko
+![My 
+photo](https://github.com/swasilenko/rsschool-cv/raw/gh-pages/avatar.jpg)
 ## contacts:
 telegram @swasilenko
 discord swasilenko#9850
