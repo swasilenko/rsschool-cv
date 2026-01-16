@@ -8,6 +8,7 @@ github: @swasilenko
 - to learn new information which helps to improve my strengths  
 - to find a job which uses my strengths to help people  
 - my priorities are quality and attention to details  
+
 ## Strengths
 - attentive to details  
 - meticulousness  
