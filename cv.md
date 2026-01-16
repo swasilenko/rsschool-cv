@@ -7,16 +7,16 @@ github: @swasilenko
 ## Goals and priorities
 - to learn new information which helps to improve my strengths  
 - to find a job which uses my strengths to help people  
-- my priorities are quality and attention to details
+- my priorities are quality and attention to details  
 ## Strengths
 - attentive to details  
 - meticulousness  
 - ability to notice what others overlook  
-- ability to find answers to questions
+- ability to find answers to questions  
 ## Work experience
 I don't have any work experience in IT yet, but I wanna learn and get new skills to become better version of myself and help people solve their problems
 ## Skills
-- figma
+- figma  
 ## Code examples
 TBD
 ## Education
