@@ -1,15 +1,9 @@
 # Svetlana Vasilenko
 ![My photo](https://github.com/swasilenko/rsschool-cv/blob/gh-pages/myavatar.JPG)
-
----
-
 ## Contacts
 telegram: @swasilenko  
 discord: Sveta Vasilenko (@swasilenko)  
 github: @swasilenko
-
----
-
 ## Goals and priorities
 - to learn new information which helps to improve my strengths  
 - to find a job which uses my strengths to help people  
