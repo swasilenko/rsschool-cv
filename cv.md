@@ -1,5 +1,5 @@
 # Svetlana Vasilenko
-![My photo](https://github.com/swasilenko/rsschool-cv/blob/gh-pages/myavatar.JPG)  
+![My photo](myavatar.JPG)  
 
 ## Contacts
 telegram: @swasilenko  
